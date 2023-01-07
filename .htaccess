@@ -1,0 +1,2 @@
+RewriteEngine on
+RewriteRule ^(.*)$ http://eucrypt.my.id/$1 [R=301,L]
